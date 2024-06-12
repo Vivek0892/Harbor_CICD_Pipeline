@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: tejomayabysivis.in/library/harbor_cicd:v.5
+        image: tejomayabysivis.in/library/harbor_cicd:v23
         ports:
         - containerPort: 80
